@@ -1,0 +1,28 @@
+{
+  "name": "MEAN_StackCourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/photon149/MEAN_StackCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/photon149/MEAN_StackCourse/issues"
+  },
+  "homepage": "https://github.com/photon149/MEAN_StackCourse#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13",
+    "mongose": "0.0.2-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
